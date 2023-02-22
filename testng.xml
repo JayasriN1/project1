@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+    <class name="TextNG.Dropdown"/>
+    <class name="TextNG.Addtocart"/>
+    <class name="TextNG.LinkedIn"/>
+    <class name="TextNG.ErrorMessageDispalyed"/>
+    <class name="TextNG.Twitter"/>
+    <class name="TextNG.ExactCount"/>
+    <class name="TextNG.about"/>
+    <class name="TextNG.ContinueShopping"/>
+    <class name="TextNG.Login"/>
+    <class name="TextNG.fblink"/>
+    <class name="TextNG.Verifyfinish"/>
+      </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
